@@ -17,6 +17,6 @@ apk for test: https://drive.google.com/file/d/110EB32Ge-KtLVeViboZKz4WHHMmJ0XM2/
 <img align="left" width="120" src="ScreenShot/Screenshot_1676919050.png">
 <img align="left" width="120" src="ScreenShot/Screenshot_1676919055.png">
 <img align="left" width="120" src="ScreenShot/Screenshot_1676919061.png">
-<img align="left" width="120" src="ScreenShot/Screenshot_1676919071.png">
+<img align="left" width="120" src="ScreenShot/Screenshot_1676919070.png">
 
 
